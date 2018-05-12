@@ -1,0 +1,28 @@
+_repo: The-Gayton-ScholarshipA-School-Story_46020
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46020-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Hayens, Herbert
+    birthdate: 1861
+    deathdate: 1944
+    gutenberg_agent_id: '25432'
+    url: http://www.gutenberg.org/2009/agents/25432
+description: ''
+gutenberg_issued: '2014-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Scholarships -- Juvenile fiction'
+title: 'The Gayton Scholarship: A School Story'
+url: http://www.gutenberg.org/ebooks/46020
